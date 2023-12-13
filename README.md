@@ -9,7 +9,7 @@ There are 3 main files:
 
 # Other Projects
 1. [Visualize Youtube Activities with R](https://github.com/anhdang1/visualize-youtube-activities-with-R)
-2. [Crime Acorss WA Colleges Analysis](https://anhdang1.shinyapps.io/crimes-in-wa-colleges/)
+2. [Crime Across WA Colleges Analysis](https://anhdang1.shinyapps.io/crimes-in-wa-colleges/)
 3. [Oil Consumption Around The World](https://github.com/anhdang1/climate_change)
 
 # ABOUT ME
